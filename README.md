@@ -2,4 +2,4 @@
 
 Note that the numbers at the end of the file names indicate the week number. For example "SOC_PINN_1.ipynb" is the Jupyter Notebook corresponding to Week-1's deliverables. All the codes had been implemented beforehand, with their results analysed, however, some notebooks may contain partially cleared outputs (since the codes were implemented and uploaded at the repository at very different time instances, with a gap of a few weeks). 
 
-There is a dedicated folder for the project work with the application centred around Computational Fluid Dynamics, which is being implemented presently. 
+There is a dedicated folder for the project work with the application centred around Computational Fluid Dynamics, which is being implemented. 
